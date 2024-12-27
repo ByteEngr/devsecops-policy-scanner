@@ -1,0 +1,97 @@
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+pytest-xdist>=3.3.0
+pytest-timeout>=2.1.0
+pytest-mock>=3.12.0
+coverage>=7.3.0
+hypothesis>=6.87.0
+
+# Linting and Code Quality
+black>=23.11.0
+isort>=5.12.0
+flake8>=6.1.0
+flake8-docstrings>=1.7.0
+flake8-bugbear>=23.3.0
+flake8-comprehensions>=3.14.0
+flake8-pytest-style>=1.7.0
+mypy>=1.7.0
+bandit>=1.7.0
+safety>=2.3.0
+pre-commit>=3.5.0
+
+# Type Checking
+types-PyYAML>=6.0.0
+types-requests>=2.31.0
+types-setuptools>=68.2.0
+types-toml>=0.10.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.4.0
+mkdocstrings>=0.23.0
+mkdocstrings-python>=1.7.0
+
+# Development Tools
+ipython>=8.17.0
+rich>=13.7.0
+
+# Build Tools
+build>=1.0.0
+twine>=4.0.0
+wheel>=0.41.0
+
+# Security Tools
+detect-secrets>=1.4.0
+
+# Mock Services
+moto>=4.2.0
+responses>=0.24.0
+vcrpy>=5.1.0
+
+# Container Tools
+docker>=6.1.0
+kubernetes>=28.1.0
+
+# API Development
+httpx>=0.25.0
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# Environment Management
+python-dotenv>=1.0.0
+environs>=9.5.0
+
+# Dependency Management
+pip-tools>=7.3.0
+pipdeptree>=2.13.0
+
+# Testing Utilities
+faker>=20.1.0
+factory-boy>=3.3.0
+freezegun>=1.2.0
+pytest-randomly>=3.15.0
+pytest-sugar>=0.9.0
+pytest-clarity>=1.0.0
+
+# Code Generation
+cookiecutter>=2.4.0
+cruft>=2.15.0
+
+# Continuous Integration
+tox>=4.11.0
+nox>=2023.4.0
+
+# Static Type Checking Extensions
+mypy-extensions>=1.0.0
+typing-extensions>=4.8.0
+
+# Development Server
+watchdog>=3.0.0
+
+# YAML Processing
+ruamel.yaml>=0.17.0
+
+# OPA Integration
+opa-python>=0.0.9
