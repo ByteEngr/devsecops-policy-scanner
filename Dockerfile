@@ -162,12 +162,12 @@ ENTRYPOINT ["python", "-m", "src.dsp_scanner.cli"]
 CMD ["--help"]
 
 # Labels for better image management
-LABEL maintainer="Olúmáyòwá Akinkuehinmi <akintunero101@gmail.com>"
+LABEL maintainer="Goziechukwu Chima-DUru <chimadurugoodness@gmail.com>"
 LABEL version="2.1.0"
 LABEL description="DevSecOps Policy Scanner - Advanced security policy scanning and compliance checking"
-LABEL org.opencontainers.image.source="https://github.com/akintunero/devsecops-policy-scanner"
+LABEL org.opencontainers.image.source="https://github.com/ByteEngr/devsecops-policy-scanner"
 LABEL org.opencontainers.image.licenses="MIT"
-LABEL org.opencontainers.image.authors="Olúmáyòwá Akinkuehinmi <akintunero101@gmail.com>"
+LABEL org.opencontainers.image.authors="Goziechukwu Chima-Duru <chimadurugoodness@gmail.com>"
 
 # Metadata
 ARG BUILD_DATE
