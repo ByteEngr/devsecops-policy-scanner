@@ -1,5 +1,5 @@
 """
-Basic tests to verify imports and core functionality.
+Basic tests to verify the imports and core functionality.
 """
 
 import pytest
