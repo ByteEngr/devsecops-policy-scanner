@@ -1,10 +1,10 @@
 site_name: DSP Scanner Documentation
 site_description: Advanced DevSecOps Policy Scanner for infrastructure security
-site_author: Olúmáyòwá Akinkuehinmi
+site_author: Goziechukwu Chima-Duru
 
 # Repository
 repo_name: akintunero/devsecops-policy-scanner
-repo_url: https://github.com/akintunero/devsecops-policy-scanner
+repo_url: https://github.com/ByteEngr/devsecops-policy-scanner
 edit_uri: edit/main/docs/
 
 # Copyright
