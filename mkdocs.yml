@@ -3,12 +3,12 @@ site_description: Advanced DevSecOps Policy Scanner for infrastructure security
 site_author: Goziechukwu Chima-Duru
 
 # Repository
-repo_name: akintunero/devsecops-policy-scanner
+repo_name: ByteEngr/devsecops-policy-scanner
 repo_url: https://github.com/ByteEngr/devsecops-policy-scanner
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2025 Olúmáyòwá Akinkuehinmi
+copyright: Copyright &copy; 2025 Goziechukwu Chima-Duru
 
 # Configuration
 theme:
@@ -137,7 +137,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/akintunero/devsecops-policy-scanner
+      link: https://github.com/ByteEngr/devsecops-policy-scanner
     - icon: fontawesome/brands/discord
       link: https://discord.gg/dsp-scanner
     - icon: fontawesome/brands/twitter
