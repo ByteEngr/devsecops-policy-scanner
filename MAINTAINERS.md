@@ -5,9 +5,9 @@ This document lists the maintainer(s) of the DSP Scanner project. Maintainers ha
 ## Core Maintainer
 
 ### Project Lead & Sole Maintainer
-- **Olúmáyòwá Akinkuehinmi**  
-  - GitHub: [@akintunero](https://github.com/akintunero)  
-  - Email: akintunero101@gmail.com  
+- **Goziechukwu Chima-Duru**  
+  - GitHub: [@ByteEngr](https://github.com/ByteEngr)  
+  - Email: chimadurugoodness@gmail.com  
   - Areas: Project direction, architecture, core functionality, all components  
 
 
