@@ -101,7 +101,7 @@ This project is being enhanced with cutting-edge features for security policy co
 
 ```bash
 # Clone the repository
-git clone https://github.com/akintunero/devsecops-policy-scanner.git
+git clone https://github.com/ByteEngr/devsecops-policy-scanner.git
 cd devsecops-policy-scanner
 
 # Install dependencies
@@ -421,7 +421,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ```bash
 # Clone and setup
-git clone https://github.com/akintunero/devsecops-policy-scanner.git
+git clone https://github.com/ByteEngr/devsecops-policy-scanner.git
 cd devsecops-policy-scanner
 
 # Install development dependencies
@@ -456,8 +456,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/akintunero/devsecops-policy-scanner/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/akintunero/devsecops-policy-scanner/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ByteEngr/devsecops-policy-scanner/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ByteEngr/devsecops-policy-scanner/discussions)
 - **Security**: [Security Policy](SECURITY.md)
 
 ## 🙏 Acknowledgments
