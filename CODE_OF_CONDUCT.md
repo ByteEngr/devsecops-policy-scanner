@@ -125,9 +125,9 @@ https://www.contributor-covenant.org/translations.
 ## Contact Information
 
 ### Community Leaders
-- **Olúmáyòwá Akinkuehinmi** - akintunero101@gmail.com
-- **Security Team** - akintunero101@gmail.com
-- **Moderation Team** - akintunero101@gmail.com
+- **Goziechukwu Chima-Duru** - chimadurugoodness@gmail.com
+- **Security Team** - chimadurugoodness@gmail.com
+- **Moderation Team** - chimadurugoodness@gmail.com
 
 ### Reporting Incidents
 If you experience or witness unacceptable behavior, or have any other concerns,
@@ -185,8 +185,8 @@ We believe in recognizing positive contributions to our community:
 ## Resources
 
 ### Support
-- **Community Forum**: [GitHub Discussions](https://github.com/akintunero/devsecops-policy-scanner/discussions)
-- **Documentation**: [Project Documentation](https://github.com/akintunero/devsecops-policy-scanner/docs)
+- **Community Forum**: [GitHub Discussions](https://github.com/ByteEngr/devsecops-policy-scanner/discussions)
+- **Documentation**: [Project Documentation](https://github.com/ByteEngr/devsecops-policy-scanner/docs)
 - **Security**: [Security Policy](SECURITY.md)
 
 ### Learning
@@ -195,11 +195,11 @@ We believe in recognizing positive contributions to our community:
 - **Code Standards**: [Coding Standards](docs/coding-standards.md)
 
 ### Reporting
-- **Issues**: [GitHub Issues](https://github.com/akintunero/devsecops-policy-scanner/issues)
-- **Security**: [Security Advisories](https://github.com/akintunero/devsecops-policy-scanner/security/advisories)
-- **Discussions**: [GitHub Discussions](https://github.com/akintunero/devsecops-policy-scanner/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ByteEngr/devsecops-policy-scanner/issues)
+- **Security**: [Security Advisories](https://github.com/ByteEngr/devsecops-policy-scanner/security/advisories)
+- **Discussions**: [GitHub Discussions](https://github.com/ByteEngr/devsecops-policy-scanner/discussions)
 
 ---
 
 **Last Updated**: January 2025  
-**Maintainer**: Olúmáyòwá Akinkuehinmi (akintunero101@gmail.com)
+**Maintainer**: Olúmáyòwá Akinkuehinmi (chimadurugoodness@gmail.com)
