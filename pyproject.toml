@@ -2,7 +2,7 @@
 name = "devsecops-policy-scanner"
 version = "2.1.0"
 description = "Advanced DevSecOps Policy Scanner for Docker, Terraform, Helm, and Kubernetes"
-authors = [{name = "Olúmáyòwá Akinkuehinmi", email = "akintunero101@gmail.com"}]
+authors = [{name = "Goziechukwu Chima-Duru", email = "chimadurugoodness@gmail.com"}]
 license = {text = "MIT"}
 readme = "Readme.md"
 requires-python = ">=3.9"
@@ -35,7 +35,7 @@ where = ["src"]
 name = "devsecops-policy-scanner"
 version = "0.1.0"
 description = "Advanced DevSecOps Policy Scanner for Docker, Terraform, Helm, and Kubernetes"
-authors = ["Olúmáyòwá Akinkuehinmi <akintunero101@gmail.com>"]
+authors = ["Goziechukwu Chima-Duru <chimadurugoodness@gmail.com>"]
 license = "MIT"
 readme = "Readme.md"
 packages = [{include = "dsp_scanner", from = "src"}]
