@@ -27,7 +27,7 @@ Thank you for your interest in contributing to the DevSecOps Policy Scanner! Thi
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/akintunero/devsecops-policy-scanner.git
+   git clone https://github.com/ByteEngr/devsecops-policy-scanner
    cd devsecops-policy-scanner
    ```
 
@@ -51,13 +51,13 @@ Thank you for your interest in contributing to the DevSecOps Policy Scanner! Thi
 
 1. **Clone your fork**
    ```bash
-   git clone https://github.com/akintunero/devsecops-policy-scanner.git
+   git clone https://github.com/ByteEngr/devsecops-policy-scanner
    cd devsecops-policy-scanner
    ```
 
 2. **Add upstream remote**
    ```bash
-   git remote add upstream https://github.com/akintunero/devsecops-policy-scanner.git
+   git remote add upstream https://github.com/ByteEngr/devsecops-policy-scanner
    ```
 
 3. **Create a feature branch**
@@ -346,8 +346,8 @@ We follow [Semantic Versioning](https://semver.org/):
 
 - **GitHub Issues**: Bug reports and feature requests
 - **GitHub Discussions**: General questions and discussions
-- **Security**: akintunero101@gmail.com for security issues
-- **Email**: akintunero101@gmail.com for general inquiries
+- **Security**: chimadurugoodness@gmail.com for security issues
+- **Email**: chimadurugoodness@gmail.com for general inquiries
 
 ### Community Guidelines
 
@@ -378,19 +378,19 @@ We recognize contributors in several ways:
 ### Resources
 
 - **Documentation**: [Project Documentation](docs/)
-- **Issues**: [GitHub Issues](https://github.com/akintunero/devsecops-policy-scanner/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/akintunero/devsecops-policy-scanner/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ByteEngr/devsecops-policy-scanner/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ByteEngr/devsecops-policy-scanner/discussions)
 - **Security**: [Security Policy](SECURITY.md)
 
 ### Contact
 
-- **General**: akintunero101@gmail.com
-- **Security**: akintunero101@gmail.com
-- **Maintainer**: Olúmáyòwá Akinkuehinmi (akintunero101@gmail.com)
+- **General**: chimadurugoodness@gmail.com
+- **Security**: chimadurugoodness@gmail.com
+- **Maintainer**: Goziechukwu Chima-Duru (chimadurugoodness@gmail.com)
 
 ---
 
 **Thank you for contributing to DevSecOps Policy Scanner!**
 
 **Last Updated**: January 2025  
-**Maintainer**: Olúmáyòwá Akinkuehinmi (akintunero101@gmail.com)
+**Maintainer**: Goziechukwu Chima-Duru (chimadurugoodness@gmail.com)
