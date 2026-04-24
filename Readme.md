@@ -469,6 +469,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**🔒 Secure your infrastructure with confidence!**
+**🔒 You can now secure your infrastructure with confidence!**
 
 
