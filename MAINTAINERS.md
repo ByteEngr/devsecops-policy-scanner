@@ -15,7 +15,7 @@ This document lists the maintainer(s) of the DSP Scanner project. Maintainers ha
 ## Communication
 
 - GitHub Issues & Discussions  
-- Email: akintunero101@gmail.com  
+- Email: chimadurugoodness@gmail.com  
 
 
 ## Code of Conduct & Security
