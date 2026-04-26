@@ -202,4 +202,4 @@ We believe in recognizing positive contributions to our community:
 ---
 
 **Last Updated**: January 2025  
-**Maintainer**: Olúmáyòwá Akinkuehinmi (chimadurugoodness@gmail.com)
+**Maintainer**: Goziechukwu Chima-Duru (chimadurugoodness@gmail.com)
