@@ -86,7 +86,7 @@ The **Enhanced DevSecOps Policy Scanner** is a comprehensive security compliance
 - **Infrastructure**: Kubernetes, Docker, Terraform support
 - **CI/CD**: GitHub Actions, GitLab CI, Azure DevOps
 
-## 📋 Strategic Roadmap
+## 📋 Strategic Roadmap:
 
 This project is being enhanced with cutting-edge features for security policy compliance. For detailed information on:
 
